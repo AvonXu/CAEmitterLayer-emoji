@@ -1,3 +1,3 @@
 # CAEmitterLayer-emoji
-![alt text](CAEmitterLayer-emoji/2016-10-27 18_52_13.gif "title")
+![alt text](https://github.com/AvonXu/CAEmitterLayer-emoji/blob/master/2016-10-27%2018_52_13.gif "title")
 
